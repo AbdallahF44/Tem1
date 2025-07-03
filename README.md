@@ -20,11 +20,11 @@ The project demonstrates a clean layout with a navigation menu, header section, 
 
 ## 📂 Project Structure
 
-Tem1/
-├── index.html # Main HTML page
-├── style.css # Styling for the page
-├── script.js # JavaScript file (optional functionality)
-└── README.md # Project documentation
+Tem1:
+- **index.html # Main HTML page**
+- **style.css # Styling for the page**
+- **script.js # JavaScript file (optional functionality)**
+- **README.md # Project documentation**
 
 ## 🚀 Getting Started
 
